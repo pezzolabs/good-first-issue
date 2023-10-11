@@ -529,6 +529,7 @@ repositories = [
   'github.com/pantsbuild/pants',
   'github.com/parse-community/parse-server',
   'github.com/pester/Pester',
+  'github.com/pezzolabs/pezzo',
   'github.com/PetrochukM/PyTorch-NLP',
   'github.com/PHP-FFMpeg/PHP-FFMpeg',
   'github.com/phpmd/phpmd',
